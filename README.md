@@ -1,4 +1,4 @@
-# Civic Tracker – MyVoice 🏙️
+# Civic Tracker – MyVoice 
 
 Civic Tracker is a web application that makes it easier for people to report and keep track of local civic issues.
 
@@ -8,13 +8,13 @@ The project also includes a small **machine learning system** that gives each co
 
 ### Features
 
-* 👤 User signup and login
-* 📝 Report civic issues with images and location
-* 👍 Support other complaints
-* 🔎 Search and filter complaints
-* 📊 Admin dashboard to manage complaints
-* 🔄 Track complaint status
-* 🤖 ML-based complaint priority prediction
+* User signup and login
+* Report civic issues with images and location
+* Support other complaints
+* Search and filter complaints
+* Admin dashboard to manage complaints
+* Track complaint status
+* ML-based complaint priority prediction
 
 ### Tech Stack
 
